@@ -1,8 +1,8 @@
 {
   "date": "30/5/2024",
-  "herdiaryver": "1.4",
+  "herdiaryver": "1.4.1",
   "electricheartver": "1.4.7",
   "ccver":"1.1",
   "chameleonver":"1.2",
-  "istesting": "true"
+  "istesting": "false"
 }
